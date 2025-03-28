@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Aditya! Passionate quality engineer who loves ensuring software runs smoothly and performs at its best. Always learning and exploring new technologies to improve testing strategies and overall software quality.
+# 👋 Hi, I'm Aditya! 
+
+Passionate quality engineer who loves ensuring software runs smoothly and performs at its best. Always learning and exploring new technologies to improve testing strategies and overall software quality.
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Playwright**
