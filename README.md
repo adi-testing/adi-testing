@@ -14,7 +14,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rallymodus&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rallymodus&show_icons=true&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rallymodus&theme=algolia)
