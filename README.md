@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditya!
+# 👋 Hi, I'm Aditya! Passionate quality engineer who loves ensuring software runs smoothly and performs at its best. Always learning and exploring new technologies to improve testing strategies and overall software quality.
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Playwright**
@@ -18,5 +18,3 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rallymodus&show_icons=true&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=rallymodus&theme=algolia)
