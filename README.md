@@ -15,11 +15,6 @@ Passionate quality engineer who loves ensuring software runs smoothly and perfor
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Testing Tools
-![Ranorex](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ranorex_Logo.jpg/320px-Ranorex_Logo.jpg)
-![Playwright](https://playwright.dev/img/playwright-logo.svg)
-![K6](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/K6-logo.svg/640px-K6-logo.svg.png)
-
 ## 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rallymodus&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
