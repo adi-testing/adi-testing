@@ -6,19 +6,13 @@ I'm building this little corner of GitHub to share my QA adventures and, hopeful
 
 ## Cool Stuff I'm Into 🌟
 
-### Test Automation 🤖
-- Automating repetitive tasks to save time and effort.
-
-### Testing Methodology 🔍
-- Mastering the art and science of breaking things efficiently.
-
-### AI-Driven Testing 🧠
-- Teaching robots to find bugs so we can enjoy more coffee ☕
-
-### Edge Tech Testing 🚀
-- **AI Systems**: Exploring the future of AI.
-- **Blockchain**: Making sense of distributed ledgers.
-- **Other Tech**: Delving into new tech that challenges the mind.
+- **Test Automation 🤖**: Automating repetitive tasks.
+- **Testing Methodology 🔍**: Breaking things efficiently.
+- **AI-Driven Testing 🧠**: Robots finding bugs for us ☕.
+- **Edge Tech Testing 🚀**:
+  - **AI Systems**: Exploring future AI.
+  - **Blockchain**: Understanding distributed ledgers.
+  - **Other Tech**: New tech challenges.
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sanjaya/)
@@ -31,6 +25,4 @@ I'm building this little corner of GitHub to share my QA adventures and, hopeful
 
 ## 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adi-testing&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adi-testing&show_icons=true&theme=tokyonight)
 
