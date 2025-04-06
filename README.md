@@ -1,10 +1,16 @@
-# 👋 Hi, I'm Aditya! 
+# 👋 Welcome to Adi Testing!
 
-Passionate quality engineer who loves ensuring software runs smoothly and performs at its best. Always learning and exploring new technologies to improve testing strategies and overall software quality.
+## About Me
+I'm a QA Engineer with a passion for breaking things (professionally, of course). This is where my love for testing meets my fascination with AI and automation. I'm building this little corner of GitHub to share my QA adventures and, hopefully, learn from yours too! Think of it as a playground where we can geek out about quality assurance together.
 
-## 🚀 About Me
-- 🌱 I’m currently learning **Playwright**
-- 💬 Ask me about **Quality Assurance**
+## Cool Stuff I'm Into 🌟
+### Test Automation
+### Testing Methodology
+### AI-Driven Testing
+### Edge Tech Testing
+- **AI Systems**
+- **Blockchain**
+- **Other Tech**
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sanjaya/)
@@ -16,7 +22,7 @@ Passionate quality engineer who loves ensuring software runs smoothly and perfor
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rallymodus&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adi-testing&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rallymodus&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adi-testing&show_icons=true&theme=tokyonight)
 
