@@ -14,9 +14,6 @@ I'm building this little corner of GitHub to share my QA adventures and, hopeful
   - **Blockchain**: Understanding distributed ledgers.
   - **Other Tech**: New tech challenges.
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sanjaya/)
-
 ## ⚙️ Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
