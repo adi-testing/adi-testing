@@ -1,8 +1,10 @@
 # 👋 Welcome to Adi Testing!
 
 ## About Me
-I'm a QA Engineer who loves to break things with experimental tools and creative chaos. This is where my love for testing meets my fascination with AI and automation. 
-I'm building this little corner of GitHub to share my QA adventures and, hopefully, learn from yours too! Think of it as a playground where we can geek out about quality assurance together.
+- QA Engineer who loves to break things with experimental tools and creative chaos.
+- Passionate about crafting QA tools that leverage emerging technologies, particularly artificial intelligence.
+
+I'm building this little corner of GitHub to share my QA adventures. This is where my love for testing meets my fascination with AI and automation.  
 
 ## Cool Stuff I'm Into 🌟
 
