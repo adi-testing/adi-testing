@@ -1,7 +1,6 @@
 ## About Me
 
-QA Engineer who loves to break things with experimental tools and creative chaos. I'm also passionate about crafting QA tools that leverage AI.  
-Bridging the gap between quality assurance and artificial intelligence, transforming test expertise into creative AI solutions."
+QA Engineer who loves to break things with experimental tools and creative chaos. I'm also passionate about crafting QA tools that leverage AI. Bridging the gap between quality assurance and artificial intelligence, transforming test expertise into creative AI solutions.
 
 I'm building this little corner of GitHub to share my tech adventures. This is where my love for testing meets my fascination with AI and automation.  
 
